@@ -1,0 +1,62 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+wheels/
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# pytest cache
+.pytest_cache/
+.cache/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+secrets.toml
+.streamlit/secrets.toml
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Raw data files (large; re-download via src/data_loader.py)
+data/raw/nasa_power_jaipur_raw.json
+data/raw/nasa_power_jaipur_raw.csv
+
+# Generated processed datasets (re-generate via preprocessing.py and evaluation.py)
+data/processed/jaipur_daily_preprocessed.csv
+data/processed/jaipur_evaluated_historical.csv
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak

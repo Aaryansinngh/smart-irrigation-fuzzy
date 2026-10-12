@@ -1,0 +1,28 @@
+{
+  "dataset_records_count": 492,
+  "kharif_seasons": [
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "reference_method": "FAO-56 Penman-Monteith (Allen et al. 1998)",
+  "fis_vs_fao56": {
+    "MAE_mm": 1.217,
+    "RMSE_mm": 1.537,
+    "Pearson_Correlation": 0.823,
+    "Trigger_Agreement_Rate": 0.815
+  },
+  "baseline_vs_fao56": {
+    "MAE_mm": 1.478,
+    "RMSE_mm": 2.465,
+    "Pearson_Correlation": 0.309
+  },
+  "category_distribution": {
+    "None": 235,
+    "Medium": 135,
+    "Low": 117,
+    "High": 5
+  },
+  "mean_active_rules_per_day": 2.05
+}
