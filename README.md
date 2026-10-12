@@ -6,6 +6,21 @@
 [![License](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ---
+<div align="center">
+
+# Smart Irrigation Recommendation System
+
+### Pearl Millet Cultivation · Jaipur, Rajasthan
+
+[**Launch Live Application**](https://smart-irrigation-fuzzy.onrender.com)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-46E3B7?style=for-the-badge&logo=render)](https://smart-irrigation-fuzzy.onrender.com)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
+
+</div>
+
+---
 
 ## 1. Overview & Motivation
 
